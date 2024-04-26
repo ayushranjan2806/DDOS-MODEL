@@ -1,6 +1,6 @@
-# Project Name
+# DDOS MODEL
 
-Brief description of the project.
+PROJECT WORK GIFT FOR THE ROHIT AND SUNIDHI  FOR FINAL YEAR PROJECT.
 
 ## Installation
 
